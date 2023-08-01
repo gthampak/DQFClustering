@@ -16,3 +16,7 @@ require(devtools)
 devtools::install_github("GabeChandler/dqfAnomaly")
 require(dqfAnomaly)
 ```
+
+---
+TODO:
+- Help files not working
